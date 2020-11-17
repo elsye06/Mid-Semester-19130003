@@ -28,5 +28,5 @@ System.out.println(“Bazoka = Booooomm Booooommmm Booooomm !!!”);
 class Pistol turunan dari class Senjata
 
 public class Pistol extends Senjata {
-//tidak mendeklarasikan apa apa , penjelasan dan maksud di bawah.
+//
 }
